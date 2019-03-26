@@ -8,7 +8,7 @@ O objetivo do teste é desenvolver um app que liste ofertas disponíveis próxim
 ### Requisitos do teste
 
 * Utilize Android Studio IDE.
-* Opcional Java ou Kotlin.
+* Opcional Kotlin.
 * Seja clean e teste sempre que possível.
 * Bom gosto crítico visual fará muita diferença.
 * Crie um projeto privado no Github e faça um push. * Crie uma pasta com o último apk release gerado e nos comunique por email.
