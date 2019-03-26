@@ -21,10 +21,10 @@ Para resolver este problema será necessário:
 
 * Uma tela com uma lista de ofertas onde cada oferta clicável deve expor um thumbnail da sua imagem, o título da oferta, a descrição da oferta e o preço.
 	
-    A lista deve ser chamada através da seguinte api pública:
+* A lista deve ser chamada através da seguinte api pública:
 
 ```
-https://api.peixeurbano.com.br/v3/deals?appSecret=QasVmHaL55PPbMvPiDJe&lat=X&lng=Y&refLat=X&refLng=Y&offset=0&limit=50&w=408&h=264&w_thumb=192&h_thumb=123 
+https://gist.githubusercontent.com/dbonates/91f5c307a3cc7edf7d7ee4e313923e35/raw/9e50c3201a9327c38060efd252385496795d5e9e/desafio-android.json 
 ```
 
 > _Nota: X e Y são suas respectivas coordenadas_
