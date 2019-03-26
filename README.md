@@ -27,10 +27,9 @@ Para resolver este problema será necessário:
 https://raw.githubusercontent.com/PeixeUrbano/desafio-android/master/api/deals.json 
 ```
 
-> _Nota: X e Y são suas respectivas coordenadas_
+#### Referência para as chaves relevantes e outras informações:
 
-
-- Thumbnail: r`esponse.images[k].image` 
+- Thumbnail: `response.images[k].image` 
 - Título da oferta: `response.partner.name`
 - Descrição: `response.short_title`   /   Preço: `response.sale_price`
 - A lista de ofertas deve ser rolável e o parâmetro offset deve aumentar de `10` em `10` de forma a não impactar a fluidez da rolagem.
