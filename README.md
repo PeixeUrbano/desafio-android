@@ -24,7 +24,7 @@ Para resolver este problema será necessário:
 * A lista deve ser chamada através da seguinte api pública:
 
 ```
-https://gist.githubusercontent.com/dbonates/91f5c307a3cc7edf7d7ee4e313923e35/raw/9e50c3201a9327c38060efd252385496795d5e9e/desafio-android.json 
+https://raw.githubusercontent.com/PeixeUrbano/desafio-android/master/api/deals.json 
 ```
 
 > _Nota: X e Y são suas respectivas coordenadas_
