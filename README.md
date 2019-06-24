@@ -1,5 +1,10 @@
 # Avaliação para Engenheiro de Software Android
 
+## Para esse teste ser avaliado, você precisará:
+* criar um repositório no Github para este projeto;
+* adicionar como membros do projeto os usuarios: [adrianopeixe](https://github.com/adrianopeixe), [guilhermesan](https://github.com/guilhermesan) e [dnassuncao](https://github.com/dnassuncao);
+* notificar a empresa avisando que o teste está disponível para verificação.
+
 ### Objetivo
 
 O objetivo do teste é desenvolver um app que liste ofertas disponíveis próximas de um usuário e, conforme sua movimentação e após um período de tempo atualize as ofertas na interface.
