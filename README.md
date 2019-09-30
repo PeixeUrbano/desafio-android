@@ -2,7 +2,7 @@
 
 ## Para esse teste ser avaliado, você precisará:
 * criar um repositório no Github para este projeto;
-* adicionar como colaboradores do projeto os usuarios: [dbonates](https://github.com/dbonates), [adrianopeixe](https://github.com/adrianopeixe), [guilhermesan](https://github.com/guilhermesan) e [dnassuncao](https://github.com/dnassuncao);
+* adicionar como colaboradores do projeto os usuarios: [dbonates](https://github.com/dbonates), [guilhermesan](https://github.com/guilhermesan) e [dnassuncao](https://github.com/dnassuncao);
 * notificar a empresa avisando que o teste está disponível para verificação.
 
 ### Objetivo
