@@ -9,6 +9,12 @@
 
 O objetivo do teste é desenvolver um app que liste ofertas disponíveis próximas de um usuário e, conforme sua movimentação e após um período de tempo atualize as ofertas na interface.
 
+### O que avaliamos
+
+Arquiteuras usadas, código limpo e comentado o suficiente, organização e modularização, uso de recursos nativos versus bibliotecas externas, e todas decisões tomadas relacionadas à melhor exposição dos seus talentos em desenvolvimento mobile.
+
+Não exigimos um teste _pixel perfect_, contudo uma interface visual bem replicada e feita de forma consistente será considerada como um diferencial.
+
 
 ### Requisitos do teste
 
